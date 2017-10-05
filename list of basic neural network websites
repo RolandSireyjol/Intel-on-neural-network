@@ -1,2 +1,7 @@
 http://www.ai-junkie.com/ann/evolved/nnt6.html
 
+
+
+
+Citation:
+If I were to build an automated neural network builder, I would use Radford Neal's Hybrid Monte Carlo (HMC) sampling-based Bayesian approach, and use a large network and integrate over the weights rather than optimise the weights of a single network. However that is computationally expensive and a bit of a "black art", but the results Prof. Neal achieves suggests it is worth it!
