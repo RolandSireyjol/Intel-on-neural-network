@@ -19,3 +19,11 @@ https://arxiv.org/abs/1412.6806
 https://github.com/BVLC/caffe/blob/master/examples/net_surgery.ipynb
 http://www.robots.ox.ac.uk/~vgg/research/very_deep/
 http://cs231n.stanford.edu/
+
+implementation:
+https://github.com/soumith/convnet-benchmarks
+http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html
+http://caffe.berkeleyvision.org/
+http://torch.ch/blog/2016/02/04/resnets.html
+
+
